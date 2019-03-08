@@ -2,10 +2,9 @@
 교육기간 : (1차) 2019년 3월 11일(월)~12일(화), 2일, 16시간  
 교육장소: 한국정보통신기술협회(TTA) 9층 CHAMP교육장  
 
-#### 강사 : 조정일 bearscho@gmail.com 010-7119-0434  
-<br>
-<br>  
-실습 사이트 주소 : http://49.247.3.34/catalog/catalog/  
+#### 강사 : 조정일 bearscho@gmail.com   
+
+실습 사이트 주소 : http://49.247.3.34/catalog/catalog/   
 #### [로그인 계정 - 10개]  
 test01@mail.com,test01  
 test02@mail.com,test02  
