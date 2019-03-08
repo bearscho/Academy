@@ -5,9 +5,8 @@
 </br></br></br>
 
 
-#### 실습 사이트 주소가 아래와 같이 변경됩니다. </br>
-#### http://49.247.3.34/catalog/catalog/  </br>
-#### 로그인 계정</br>
+#### 실습 사이트 주소 : http://49.247.3.34/catalog/catalog/  </br>
+#### [로그인 계정]</br>
 #### test01@mail.com / test01  
 #### ~~~  
 #### test10@mail.com / test10 
