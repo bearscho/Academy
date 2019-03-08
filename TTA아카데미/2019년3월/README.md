@@ -6,7 +6,7 @@
 
 
 #### 실습 사이트 주소 : http://49.247.3.34/catalog/catalog/  </br>
-#### [로그인 계정]</br>
+#### [로그인 계정 - 10]</br>
 #### test01@mail.com / test01  
 #### ~~~  
 #### test10@mail.com / test10 
