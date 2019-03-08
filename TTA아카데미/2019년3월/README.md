@@ -4,9 +4,10 @@
 - 교육장소: 한국정보통신기술협회(TTA) 9층 CHAMP교육장
 
 
+
 실습 사이트 주소가 아래와 같이 변경됩니다.
-http://49.247.3.34/catalog/catalog/
-로그인 계정
+http://49.247.3.34/catalog/catalog/    .
+로그인 계정.
 test01@mail.com / test01  ~~~  test10@mail.com / test10
 
 
