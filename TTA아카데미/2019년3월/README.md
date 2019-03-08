@@ -19,8 +19,8 @@ test09@mail.com,test09
 test10@mail.com,test10    
 <br><br>
 #### [시스템 성능수집]
-접속 툴 : putty  
+ 
 서버IP : 49.247.3.34  
 계정 : root / bearscho  
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
-
+접속 확인 툴 : putty  
