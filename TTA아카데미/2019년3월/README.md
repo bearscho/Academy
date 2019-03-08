@@ -1,14 +1,26 @@
-#### 교육명 : 실전 성능테스트  
-#### 교육기간 : (1차) 2019년 3월 11일(월)~12일(화), 2일, 16시간  
-#### 교육장소: 한국정보통신기술협회(TTA) 9층 CHAMP교육장  
+교육명 : 실전 성능테스트  
+교육기간 : (1차) 2019년 3월 11일(월)~12일(화), 2일, 16시간  
+교육장소: 한국정보통신기술협회(TTA) 9층 CHAMP교육장  
 <br>
 <br>
   
   
-#### 실습 사이트 주소 : <a href="http://49.247.3.34/catalog/catalog/" target="new">http://49.247.3.34/catalog/catalog/</a>  
+실습 사이트 주소 : http://49.247.3.34/catalog/catalog/  
 #### [로그인 계정 - 10개]  
-#### test01@mail.com / test01  
-#### ~~~  
-#### test10@mail.com / test10  
+test01@mail.com,test01  
+test02@mail.com,test02  
+test03@mail.com,test03  
+test04@mail.com,test04  
+test05@mail.com,test05  
+test06@mail.com,test06  
+test07@mail.com,test07  
+test08@mail.com,test08  
+test09@mail.com,test09  
+test10@mail.com,test10    
 
+#### [시스템 성능수집]
+접속 툴 : putty  
+서버IP : 49.247.3.34  
+계정 : root / bearscho  
+명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
 
