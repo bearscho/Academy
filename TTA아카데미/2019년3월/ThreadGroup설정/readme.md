@@ -15,3 +15,4 @@ ThreadGroup 설정 안내
 2.concurrencythreadgroup.PNG  
 
 <img src=https://github.com/bearscho/academy/blob/master/TTA%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/2019%EB%85%843%EC%9B%94/ThreadGroup%EC%84%A4%EC%A0%95/2.concurrencythreadgroup.PNG?raw=true">
+  
