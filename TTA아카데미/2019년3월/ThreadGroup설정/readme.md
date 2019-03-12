@@ -9,7 +9,7 @@ ThreadGroup 설정 안내
 
 이번 교재 업데이트 시 플러그인 사용 방식에서 기본 ThreadGroup으로 바꾸었는데,  
 실습엑셀 문서에까지는 반영을 못하였고, 아래와 같은 부하유입 조건으로 바꾸어야 할 것 같습니다.  
-=> 2분 동안 최대 10명까지 유입 , 측정시간 : 10분
+### => 2분 동안 최대 10명까지 유입 , 측정시간 : 10분
 
 사용하는 방법은 아래와 같습니다.  
 . 최대 10명 유입 : Target Concurrency 에 10 입력(10명)
@@ -29,7 +29,7 @@ bzm - Curruncy Thread Group 이라는 플러그인을 사용하면 보다 쉽제
                       10으로 입력시에는 10명을 1명씩 순차적으로 유입됩니다.
 - 측정시간 10분 : HoldTarget Rate Time(min) 에 10 (분) 입력
 해당 플러그인에서는 값을 변경시마다 어떻게 유입되는지를 그래프로 확인가능합니다.
-<img src=https://github.com/bearscho/academy/blob/master/TTA%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/2019%EB%85%843%EC%9B%94/ThreadGroup%EC%84%A4%EC%A0%95/2.concurrencythreadgroup.PNG?raw=true">
+<img src="https://github.com/bearscho/academy/blob/master/TTA%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/2019%EB%85%843%EC%9B%94/ThreadGroup%EC%84%A4%EC%A0%95/2.concurrencythreadgroup.PNG?raw=true">
 
 
   
