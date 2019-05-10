@@ -26,8 +26,12 @@ sudo systemctl start mysqld
 [loadman@bearscho-57431 etc]$ grep 'password' /var/log/mysqld.log
 2019-05-10T12:42:35.987573Z 1 [Note] A temporary password is generated for root@localhost: 47se?NeUwkK#
 
+시스템 부팅시 자동 구동되도록 설정
+systemctl enable mysqld
+systemctl restart mysqld
 
+mysql -uroot -p
 
-
-
+UPDATE user set authentication_string=password('oscommerce') where user='root';
+FLUSH PRIVILEGES;
 
