@@ -1,0 +1,3 @@
+
+
+systemctl start elasticsearch  
