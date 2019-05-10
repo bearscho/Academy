@@ -32,3 +32,4 @@ systemctl disable iptables
 systemctl disable ip6tables 
 systemctl disable firewalld  
 
+## 방화벽 정책은 iwinv 콘솔에서 적용  
