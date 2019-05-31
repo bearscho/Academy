@@ -66,3 +66,6 @@ The administrator username to use for the administration tool.
 Administrator Password   
 oscommerce  
 The password to use for the administrator account.  
+
+
+http://49.247.207.252/catalog/admin/login.php   
