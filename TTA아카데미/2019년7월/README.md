@@ -19,8 +19,13 @@ test10@mail.com,test10
 
 
 [시스템 성능수집]  
-서버IP : 49.247.207.252  
+서버IP : 49.247.207.252     16 rCore /32 G
 계정 : loadman / loadman  
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
 접속 확인 툴 : putty  
 
+
+서버IP : 49.247.130.173       8 vCore  /8 G
+계정 : loadman / loadman  
+명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
+접속 확인 툴 : putty  
