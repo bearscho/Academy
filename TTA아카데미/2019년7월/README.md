@@ -14,7 +14,7 @@
 
 
   
-강사 : 조정일 bearscho@gmail.com   010-7119-0434
+강사 : 조정일 bearscho@gmail.com   010-7119-0434    
 실습 사이트 주소 : http://49.247.207.252/catalog  
 [로그인 계정 - 10개]  
 test01@email.com,test01  
