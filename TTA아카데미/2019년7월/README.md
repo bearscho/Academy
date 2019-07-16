@@ -17,16 +17,16 @@
 강사 : 조정일 bearscho@gmail.com   010-7119-0434
 실습 사이트 주소 : http://49.247.207.252/catalog  
 [로그인 계정 - 10개]  
-test01@mail.com,test01  
-test02@mail.com,test02  
-test03@mail.com,test03  
-test04@mail.com,test04  
-test05@mail.com,test05  
-test06@mail.com,test06  
-test07@mail.com,test07  
-test08@mail.com,test08  
-test09@mail.com,test09  
-test10@mail.com,test10  
+test01@email.com,test01  
+test02@email.com,test02  
+test03@email.com,test03  
+test04@email.com,test04  
+test05@email.com,test05  
+test06@email.com,test06  
+test07@email.com,test07  
+test08@email.com,test08  
+test09@email.com,test09  
+test10@email.com,test10  
 
 
 
