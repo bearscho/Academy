@@ -1,0 +1,38 @@
+import java.io.*;
+import java.net.*;
+
+
+String domainName = "google.com"; 
+String hostname = "whois.internic.net";
+int port = 43;
+String fullrecv;
+
+try {
+    Socket socket = new Socket(hostname, port); 
+ 
+    OutputStream output = socket.getOutputStream();
+    PrintWriter writer = new PrintWriter(output, true);
+    writer.println(domainName);
+ 
+    InputStream input = socket.getInputStream(); 
+    BufferedReader reader = new BufferedReader(new InputStreamReader(input));
+ 
+    String line;
+    fullrecv = "";
+    
+    while ((line = reader.readLine()) != null) {
+    	fullrecv += line + "\n";          
+    }
+    log.info(fullrecv);
+} catch (UnknownHostException ex) { 
+   log.error("Server not found: " + ex.getMessage()); 
+} catch (IOException ex) { 
+   log.error("I/O error: " + ex.getMessage());
+}
+
+//JMeter JSR223 Response Setting
+
+SampleResult.setSuccessful(true);    // true : Success or false : Fail
+SampleResult.setResponseCode("200");
+SampleResult.setResponseMessage("request end");
+SampleResult.setResponseData(fullrecv);
