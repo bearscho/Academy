@@ -1,0 +1,20 @@
+int TTime = 1000;
+int prevTime = 0;
+int sleepTime = 0;
+
+prevTime = prev.getTime();
+
+sleepTime = TTime -prevTime; 
+
+if (sleepTime > 0  ) {
+	sleep(sleepTime);	
+}
+
+//get Response Time, it's Load Time, it returns "long" data type
+//log.info("Response Time is: " + prev.getTime().toString());
+
+
+/*
+groovy
+JSR223 Post Processor
+*/
