@@ -41,3 +41,5 @@ test10@email.com,test10
 계정 : loadman / loadman  
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
 접속 확인 툴 : putty  
+
+추가 정보 : https://drive.google.com/open?id=1Tx6Jcvj7Qeo6PHSfMvrv62f6Q4BJdVuLx9yhHXsi8B0
