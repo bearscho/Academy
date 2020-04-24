@@ -43,3 +43,4 @@ test10@email.com,test10
 접속 확인 툴 : putty  
 
 추가 정보 : https://drive.google.com/open?id=1Tx6Jcvj7Qeo6PHSfMvrv62f6Q4BJdVuLx9yhHXsi8B0
+            https://docs.google.com/document/d/e/2PACX-1vRYt7L5fo3UzRcfkew34wVPQNk7etr4BC9oMkHgw86n7zOyq4cUag2ryPjLNvY20nDMBjrNFfEHQplX/pub
