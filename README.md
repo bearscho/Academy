@@ -1,3 +1,12 @@
-### 성능테스트 강의
+### 안내
 
-https://docs.google.com/document/d/e/2PACX-1vQOOkBDwSLSQKu3pXcBvvKfn3AggW6e_ChkQ8ueoNIjtj574RR_Ss9WgG06ph5uRmgbf0w37MDmGlif/pub
+
+
+# 이렇게 쓰세요.
+
+# 질문 이 있으면 Issues 에 등록해주세요.
+
+# 기능 개발이 필요해도 Issue 에 등록
+
+# 상세설명이 필요한 건 구글Doc 링크 (CTRL 누르고 링크 클릭)
+
