@@ -46,6 +46,6 @@ test10@email.com,test10
 
 Jenkins 접속 : http://49.247.207.252:8080/    loadman/loadman
 
-IP 는 GCP에서 수시로 변동
-http://34.75.208.110:3000/login
-http://34.75.208.110:8086
+IP 는 GCP에서 수시로 변동됨
+http://34.75.208.110:3000/login     
+http://34.75.208.110:8086  
