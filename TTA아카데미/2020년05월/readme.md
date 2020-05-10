@@ -42,10 +42,11 @@ test10@email.com,test10
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
 접속 확인 툴 : putty  
 
+  
 
-
-Jenkins 접속 : http://49.247.207.252:8080/    loadman/loadman
-
-IP 는 GCP에서 수시로 변동됨
-http://34.75.208.110:3000/login     
-http://34.75.208.110:8086  
+Jenkins 접속 : http://49.247.207.252:8080/    loadman/loadman  
+  
+IP 는 GCP에서 수시로 변동됨  
+http://34.75.208.110:3000/login      
+http://34.75.208.110:8086    
+   
