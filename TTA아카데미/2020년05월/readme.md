@@ -1,5 +1,5 @@
 교육명 : 실전 성능테스트  
-교육기간 : (2차) 2019년 7월 15일(월)~16일(화), 2일, 16시간  
+교육기간 : (1차) 2020년 5월 18일(월)~19일(화), 2일, 16시간  
 교육장소: 한국정보통신기술협회(TTA) 9층 CHAMP교육장  
 
 
@@ -42,6 +42,6 @@ test10@email.com,test10
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
 접속 확인 툴 : putty  
 
-추가 정보 : https://drive.google.com/open?id=1Tx6Jcvj7Qeo6PHSfMvrv62f6Q4BJdVuLx9yhHXsi8B0
-            https://docs.google.com/document/d/e/2PACX-1vRYt7L5fo3UzRcfkew34wVPQNk7etr4BC9oMkHgw86n7zOyq4cUag2ryPjLNvY20nDMBjrNFfEHQplX/pub
-            https://docs.google.com/presentation/d/e/2PACX-1vQxvLASyn2szbEDkPDDy_mAG86qldoewQfuRmQe425jSOTldefQ9vic1Fl5Vtflev1c8hmiKRPFyLh8/pub?start=false&loop=false&delayms=3000&slide=id.g1f87997393_0_1276
+
+
+Jenkins 접속 : http://49.247.207.252:8080/    loadman/loadman
