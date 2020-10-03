@@ -50,7 +50,7 @@
           <boolProp name="SMTPSampler.use_eml">false</boolProp>
           <stringProp name="SMTPSampler.emlMessageToSend"></stringProp>
           <stringProp name="SMTPSampler.useAuth">true</stringProp>
-          <stringProp name="SMTPSampler.password">cji3633@</stringProp>
+          <stringProp name="SMTPSampler.password"></stringProp>
           <stringProp name="SMTPSampler.username">bearscho@gmail.com</stringProp>
           <stringProp name="SMTPSampler.messageSizeStatistics">false</stringProp>
           <stringProp name="SMTPSampler.enableDebug">false</stringProp>
