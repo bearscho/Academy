@@ -19,6 +19,9 @@ https://data.seoul.go.kr/dataList/OA-15548/A/1/datasetView.do
 인터파크티켓 잔여좌석 조회하기   
 http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20007789   
 
+기본실습#7   
+JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR223%EC%83%98%ED%94%8C%EC%BD%94%EB%93%9C
+
 강사 : 조정일 bearscho@gmail.com 010-7119-0434    
 실습 사이트 주소 : http://49.247.207.252/catalog   
 [로그인 계정 - 10개]   
