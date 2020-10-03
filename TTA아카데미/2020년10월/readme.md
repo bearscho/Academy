@@ -21,22 +21,22 @@ http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20007789
 
 기본실습#7   
 JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR223%EC%83%98%ED%94%8C%EC%BD%94%EB%93%9C
-
+   
+      
+         
+         
 강사 : 조정일 bearscho@gmail.com 010-7119-0434    
-실습 사이트 주소 : http://49.247.207.252/catalog   
-[로그인 계정 - 10개]   
-test01@email.com,test01
-test02@email.com,test02
-test03@email.com,test03
-test04@email.com,test04
-test05@email.com,test05
-test06@email.com,test06
-test07@email.com,test07
-test08@email.com,test08
-test09@email.com,test09
-test10@email.com,test10
+실습 사이트 주소 : https://49.247.21.131:8783
+   
+[로그인 계정 - 99개]   
+test01@email.com,password01
+test02@email.com,password02
+~~~~~~~~~    
+test98@email.com,password98
+test99@email.com,password99
+
 
 [시스템 성능수집]   
-서버IP : 49.247.207.252 16 rCore /32 G 계정 : loadman / loadman    
+서버IP : 49.247.21.131 16 rCore /32 G 계정 : loadman / loadman    
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'   
 접속 확인 툴 : putty  
