@@ -28,7 +28,7 @@ JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR
 강사 : 조정일 bearscho@gmail.com 010-7119-0434    
 실습 사이트 주소 : https://49.247.21.131:8783
    
-[로그인 계정 - 99개]   
+[로그인 계정 - 100개]   
 test00@email.com,password00   
 test01@email.com,password01   
 test02@email.com,password02   
