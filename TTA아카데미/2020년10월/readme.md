@@ -31,7 +31,7 @@ JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR
 [로그인 계정 - 99개]   
 test01@email.com,password01
 test02@email.com,password02
-~~~~~~~~~    
+~  
 test98@email.com,password98
 test99@email.com,password99
 
