@@ -4,13 +4,16 @@
 
 
 기본 실습#2
-구글검색  : 서울시 공공서비스예약 정보 API
+구글검색  : 서울시 공공서비스예약 정보 API 
 https://data.seoul.go.kr/dataList/OA-2267/A/1/datasetView.do
 
 기본실습#3
-구글검색  : 금융결제원 테스트베드 오픈API 계좌실명조회
+구글검색  : 금융결제원 테스트베드 오픈API 계좌실명조회 
 https://developers.open-platform.or.kr/openapi/account
 
+기본실습#4
+구글검색  : 서울특별시 부동산 실거래가 정보 API 
+https://data.seoul.go.kr/dataList/OA-15548/A/1/datasetView.do
 
 
 
