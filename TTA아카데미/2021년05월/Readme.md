@@ -41,3 +41,7 @@ test99@email.com,password99
 서버IP : 49.247.21.131 16 rCore /32 G 계정 : loadman / loadman    
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'   
 접속 확인 툴 : putty  
+
+
+MTQQ & CoAP 라이브러리 포함된 Jmeter5.4.1 버전
+https://drive.google.com/file/d/1-2vWyCq0Rkmqd_w5RGmr6pGiJG0BynDd/view?usp=sharing
