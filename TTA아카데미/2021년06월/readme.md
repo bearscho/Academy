@@ -4,6 +4,11 @@
 jmeter5.4.1  
 https://drive.google.com/file/d/1-1AMUpLo0TwcwAh10Cg75hlKJRNHIVi3/view?usp=sharing
 
+레코딩 시 인증서문서로 안될 경우  
+https://docs.google.com/document/d/104ZY9aC_8GwnRWLrDUAYD0QgBluArW3C7cDIYOqGteg/edit?usp=sharing
+  
+  
+
 
 기본 실습#2  
 구글검색 : 서울시 공공서비스예약 정보 API  
