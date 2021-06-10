@@ -15,7 +15,7 @@ https://data.seoul.go.kr/dataList/OA-15548/A/1/datasetView.do
   
 기본실습#5  
 인터파크티켓 잔여좌석 조회하기  
-http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20007789   
+https://tickets.interpark.com/goods/20011095   
   
 기본실습#7  
 JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR223%EC%83%98%ED%94%8C%EC%BD%94%EB%93%9C  
