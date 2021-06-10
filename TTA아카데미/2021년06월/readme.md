@@ -11,7 +11,7 @@ https://data.seoul.go.kr/dataList/OA-2267/A/1/datasetView.do
   
 기본실습#3  
 구글검색 : 금융결제원 테스트베드 오픈API 계좌실명조회  
-https://developers.open-platform.or.kr/openapi/account  
+https://developers.openbanking.or.kr/openapi/account  
   
 기본실습#4   
 구글검색 : 서울특별시 부동산 실거래가 정보 API  
