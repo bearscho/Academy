@@ -38,9 +38,13 @@ test99@email.com,password99
 접속 확인 툴 : putty  
 
 
+
+
 개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)  
 https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C/
  
+결제 시스템 성능, 부하, 스트레스 테스트(우아한형제들-배민)
+https://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html
   
-그림으로 공부하는시스템 성능 구조   
+(도서)그림으로 공부하는시스템 성능 구조   
 http://www.yes24.com/Product/Goods/17947564  
