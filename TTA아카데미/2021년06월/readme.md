@@ -23,7 +23,7 @@ https://tickets.interpark.com/goods/20011095
 https://api-ticketfront.interpark.com/v1/goods/20011095/playSeq/PlaySeq/001/REMAINSEAT
   
   
-기본실습#7  
+기본실습#6  
 JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR223%EC%83%98%ED%94%8C%EC%BD%94%EB%93%9C  
   
 강사 : 조정일 bearscho@gmail.com 010-7119-0434  
