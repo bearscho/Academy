@@ -1,6 +1,10 @@
 교육명 : JMeter 기반 실전 성능테스트  
-교육기간 : 2021년 06월 10일~11일  
+교육기간 : 2021년 06월 10일~11일
   
+jmeter5.4.1  
+https://drive.google.com/file/d/1-1AMUpLo0TwcwAh10Cg75hlKJRNHIVi3/view?usp=sharing
+
+
 기본 실습#2  
 구글검색 : 서울시 공공서비스예약 정보 API  
 https://data.seoul.go.kr/dataList/OA-2267/A/1/datasetView.do  
