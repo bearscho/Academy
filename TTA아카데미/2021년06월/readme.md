@@ -1,6 +1,11 @@
 교육명 : JMeter 기반 실전 성능테스트  
 교육기간 : 2021년 06월 10일~11일
+
+플러그인 적용 전 실습통합본은 아래 압축파일로 포함되어 있습니다.     
+- Samples_202106_실습통합.zip   
+   
   
+    
 jmeter5.4.1  
 https://drive.google.com/file/d/1-1AMUpLo0TwcwAh10Cg75hlKJRNHIVi3/view?usp=sharing
 
