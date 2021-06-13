@@ -1,6 +1,10 @@
 교육명 : JMeter 기반 실전 성능테스트  
 교육기간 : 2021년 06월 10일~11일
 
+#실습 사이트 주소가 아래 주소로 변경되었습니다.  
+#https://49.247.147.78:8783/konakart/  
+  
+  
 플러그인 적용 전 실습통합본은 아래 압축파일로 포함되어 있습니다.     
 - Samples_202106_실습통합.zip   
    
@@ -37,7 +41,7 @@ https://api-ticketfront.interpark.com/v1/goods/20011095/playSeq/PlaySeq/001/REMA
 JSR223 샘플코드 : https://github.com/bearscho/Academy/blob/master/JMeter/JSR223%EC%83%98%ED%94%8C%EC%BD%94%EB%93%9C  
   
 강사 : 조정일 bearscho@gmail.com 010-7119-0434  
-실습 사이트 주소 : https://49.247.21.131:8783  
+실습 사이트 주소 : https://49.247.147.78:8783/konakart/
   
 [로그인 계정 - 100개]  
 test00@email.com,password00  
