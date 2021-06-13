@@ -53,7 +53,7 @@ test98@email.com,password98
 test99@email.com,password99  
   
 [시스템 성능수집]  
-서버IP : 49.247.21.131 8 rCore /32 G 계정 : loadman / loadman  
+서버IP : 49.247.147.78 8 rCore /32 G 계정 : loadman / loadman  
 명령어 : sar -u 1 1 | awk '/^Average:/{print 100-$8}'  
 접속 확인 툴 : putty  
 
