@@ -5,13 +5,6 @@
 ## https://49.247.147.78:8783/konakart/  
   
   
-플러그인 적용 전 실습통합본은 아래 압축파일로 포함되어 있습니다.     
-- Samples_202106_실습통합.zip   
-   
-  
-    
-jmeter5.4.1  
-https://drive.google.com/file/d/1-1AMUpLo0TwcwAh10Cg75hlKJRNHIVi3/view?usp=sharing
 
 레코딩 시 인증서문서로 안될 경우  
 https://docs.google.com/document/d/104ZY9aC_8GwnRWLrDUAYD0QgBluArW3C7cDIYOqGteg/edit?usp=sharing
